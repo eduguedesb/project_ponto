@@ -15,9 +15,7 @@ Geração de relatórios em PDF: O programa permite gerar relatórios em PDF, co
 Armazenamento de dados: Todos os registros são armazenados em um arquivo JSON para que as informações sejam persistidas entre as execuções.
 
 # Dependências:
-PyQt5: Usada para criar a interface gráfica.
-<br>
-ReportLab: Usada para gerar o relatório em PDF.
+Dependências listadas no arquivo "requirements.txt".
 
 # Como Usar:
 Execute o script com o seguinte comando: py ponto.py ou python ponto.py.
